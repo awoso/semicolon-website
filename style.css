@@ -1,0 +1,206 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo img{
+   width: 170px;
+   margin-left: 55px;
+   margin-top: 20px;
+   
+}
+
+ 
+nav{
+    display: flex;
+    position: fixed;
+    justify-content: space-between;
+    padding: 10px 20px;
+    width: 60%;
+    height: 60px;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    align-items: center;
+
+}
+
+.button-container{
+    position: relative;
+    width: 50px;
+    margin-top: 100px;
+    margin-left: 15opx;
+    line-height: 50px;;
+    
+
+    
+}
+
+.button-container button{
+    position: relative;
+    width: 150px;
+    height: 40px;
+    border-radius: 8px;
+    border:none;
+    font-size: 15px;
+    
+}
+
+.button1{
+    color: red;
+    position: relative;
+    margin-left: -90px;
+    margin-bottom: 35px;
+
+
+}
+.button2{
+    position: relative;
+    right:100px;
+    top: -82px;
+    background-color: red;
+    color: white;
+    
+}
+
+.lady{
+    position: relative;
+    float: right;
+    right: -365px;
+    top: 370px;
+    z-index: -1;
+}
+ul{
+    float: left;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li{
+    position: relative;
+    list-style:none;
+    margin-right:50px;
+    margin:25px;
+    font-size: 14px;
+    margin-bottom:3px;
+    padding:1px;
+    margin-left: 35px;
+    left: 270px;
+    
+}
+
+
+ul li a {
+    text-decoration: none;
+    color:slategray;;
+    font-family: Arial;
+    font-weight: light;
+    transition: 0.4 ease-in-out;
+}
+
+ul li a:hover{
+    color:red;
+}
+
+.text{
+    position: absolute;
+    top: 220px;
+    left: 150px;
+    line-height: 1.2;
+    padding: 20px;
+}
+
+
+
+
+.for-size{
+    font-size: 45px ;
+}
+.soft{
+    color: red;
+}
+
+.skilled {
+    color: red;
+}
+
+
+.text2{
+position:absolute;
+height: auto;
+color:slategrey;
+font-size: 20px;;
+font-weight: light;
+font-family:Arial;
+line-height: 1.6;
+margin-top: 50px;
+
+}
+
+.button-container22{
+    width: 150px;
+    height: 45px;
+    border-radius: 8px;
+    border: none;
+    font-size: 15px;
+    margin-top: 7px;
+    margin-left: 0%; 
+    background-color: red;
+    color: white;
+}
+.button-container23{
+    width: 150px;
+    height: 45px;
+    border-radius: 8px;
+    border: none;
+    font-size: 15px;
+    margin-top: 7%;
+    margin-right: -200px; 
+    color: red;
+}
+.speech h2{
+    position:relative;
+    margin-top: 50px;
+    font-family:Arial;
+    font-size: 45px;
+    color:black;
+    font-weight: bold;
+    margin-left: 170px;
+    left: 240px;
+
+}
+
+.text h2{
+    position: relative;
+    left: 350px;
+    bottom: -70px;
+    font-size:30px ;
+    font-family:Arial;
+    color: black;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+    
